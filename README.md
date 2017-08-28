@@ -22,9 +22,9 @@ This is designed to be compiled in the Arduino IDE, using the ESP8266 JSON board
 
 ### NOTES / DISCLAIMER
 
-No responsibility. 
-Use at your own Risk. 
-Work in Progress. 
-Please contribute! 
-Please find bugs!
-Enjoy!
+* No responsibility. 
+* Use at your own Risk. 
+* Work in Progress. 
+* Please contribute! 
+* Please find bugs!
+* Enjoy!
